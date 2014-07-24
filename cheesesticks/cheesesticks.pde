@@ -34,7 +34,7 @@ for (int i=0;i<8;i++){
 }
 
 //drawing
- fill (0,0,255);
+ fill (210,210,0);
  
 for (int k=0; k<8;k++){
   rect(0,k*20,cheesesticks[k]*5,10);
