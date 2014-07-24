@@ -34,6 +34,10 @@ for (int i=0;i<8;i++){
 }
 
 //drawing
+ for (int c=0;c<8;c++){
+println(cheesesticks[c]);
+ }
+
  fill (210,210,0);
  
 for (int k=0; k<8;k++){
