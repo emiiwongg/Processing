@@ -60,3 +60,8 @@ void mousePressed () {
   ball4.xpos = mouseX;
   ball4.ypos = mouseY;
 }
+
+void mouseDragged () {
+  ball4.xpos = mouseX;
+  ball4.ypos = mouseY;
+}
